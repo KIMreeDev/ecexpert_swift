@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FAE13F09-E3B0-4F37-9F85-F48B62E48583</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ECExpert</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF2B187F8B8BF73360AD62960D89FE0174ED3338</key>
+		<string>https://github.com/KIMREE/ECExpert_swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ECExpert.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF2B187F8B8BF73360AD62960D89FE0174ED3338</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KIMREE/ECExpert_swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF2B187F8B8BF73360AD62960D89FE0174ED3338</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF2B187F8B8BF73360AD62960D89FE0174ED3338</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ECExpert_swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
